@@ -1,0 +1,139 @@
+html, body {
+margin: 0;
+line-height: 1.2;
+}
+
+
+p {
+  color: black;
+  font-size: 20px;
+}
+
+.showcase {
+  color:red;
+}
+
+
+h1 {
+  color: #ffffff;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  font-size: 70px;
+  padding-left: 45px;
+  padding-top: 10px;
+  padding-bottom: 25px;
+}
+
+h2 {
+  color: black;
+}
+
+li {
+  color: black
+}
+
+
+.container {
+  width: 80%;
+  margin:0 auto;
+  text-align: center;
+  color: white;
+}
+
+.header {
+  background-color: black;
+  background-image: url(../images/header-bg.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+}
+
+.cta {
+  background-color: goldenrod;
+  text-decoration: none;
+  color: white;
+  padding: 20px
+}
+
+.header p {
+  margin-bottom: 30px
+}
+
+ul li {
+  display: inline-block;
+  width: 30%;
+}
+
+h2 {
+  font-size: 35px;
+  padding: 20px 80px 20px 45px;
+}
+
+.text {
+  color: white;
+  font-size: 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background: yellow;
+}
+
+.food-options ul li {
+  width: 30%;
+  margin: 0 1%;
+  display: inline-block;
+}
+
+.food-options ul {
+  padding: 0;
+}
+
+.food-options img {
+  max-width: 100%;
+  border: 3px solid goldenrod;
+}
+
+.about {
+  background-color: black;
+  background-image: url(../images/about.jpg);
+  background-position: center;
+  background-size: cover;
+  padding: 80px 0;
+  color: white;
+}
+
+.about-text {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.about-title {
+  color:white
+}
+
+.profile-desc {
+  font-size: 14px;
+}
+
+.profile-quote {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.footer {
+  background: black;
+  color: white;
+}
+
+.closing-argument {
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px
+
+}
